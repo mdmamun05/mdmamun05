@@ -8,8 +8,8 @@ I'm working on Web design and development. I also knowing some programming langu
 
 Skills:  / HTML / CSS/Bootstrap/java/Js/Jquery/C
 
-- 🔭 I’m currently working on Java Project 
-- 🌱 I’m currently learning Java 
+- 🔭 I’m currently working on Java script Project 
+- 🌱 I’m currently learning Java script
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web development 
 
