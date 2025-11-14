@@ -34,15 +34,6 @@
 </html>
 
 
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdmamun05)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmamun05)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmamun05&show_icons=true)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdmamun05)  
 
 ![GitHub metrics](https://metrics.lecoq.io/mdmamun05)  
