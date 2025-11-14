@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NabiulIslamNabil](https://github.com/mdmamun05)
+- 👨‍💻 All of my projects are available at [https://github.com/mdmamun05](https://github.com/mdmamun05)
 
 - 💬 Ask me about **javascript, C and C++**
 
