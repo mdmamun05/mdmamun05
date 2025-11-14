@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![MasterHead](https://lottiefiles.com/free-animation/developer-skills-nMPhWyVkkl)
 
 <html>
   <h1 align="center">Hi 👋, I'm Abdullah Al Mamun</h1>
